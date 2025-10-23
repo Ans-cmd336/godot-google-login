@@ -14,8 +14,4 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
 rootProject.name = "GodotGoogleLogin"
-=======
-rootProject.name = "GodotGoogleLogin"
->>>>>>> 9a66b97 (fixed one)
