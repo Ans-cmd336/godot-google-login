@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333527690601",
+    "project_id": "ghost-word-baea5",
+    "storage_bucket": "ghost-word-baea5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333527690601:android:6332db9d954045339521f8",
+        "android_client_info": {
+          "package_name": "com.ghost.word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333527690601-dh6qnrt7bh2o230ud3kct7slhk0umd04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFT_mg3vY2ufbiFEDbGr_ShX7cR21KbLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333527690601-dh6qnrt7bh2o230ud3kct7slhk0umd04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

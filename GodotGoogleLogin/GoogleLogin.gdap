@@ -1,0 +1,4 @@
+[plugin]
+name="GoogleLogin"
+binary="GodotGoogleLogin-release.aar"
+class_name="GoogleLogin"
